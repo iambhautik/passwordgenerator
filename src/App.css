@@ -1,0 +1,13 @@
+.container{
+  height: 50vh;
+  width: 45%;
+  margin-top: 10rem;
+  box-shadow: 0 4px 8px 0 rgba(17, 15, 15, 0.2);
+
+}
+.text1{
+  height: 25px;
+}
+.option{
+  margin-right: 1rem;
+}
